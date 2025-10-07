@@ -48,11 +48,7 @@ All queries assume the standard schema provided in class, with tables such as:
 
 ---
 
-### 💬 Notes
-> “Writing queries is like composing music — every join and group has to harmonize perfectly.” 🎶  
-> — *Hebatallah Tharhan*
 
----
 
 ### 📚 License
 This project is for **educational purposes** only.
